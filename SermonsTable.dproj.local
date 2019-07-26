@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.848,D:\DocumentsTkadm\Projects\DXE4\Sermons\Templates\mdTemplate.pas=D:\DocumentsTkadm\Projects\DXE4\Sermons\mdWorshipTablePeriod.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=D:\DocumentsTkadm\Projects\DXE4\Sermons\Templates\mdTemplate.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,D:\DocumentsTkadm\Projects\DXE4\Sermons\Templates\mdTemplate.dfm=D:\DocumentsTkadm\Projects\DXE4\Sermons\mdWorshipTablePeriod.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
